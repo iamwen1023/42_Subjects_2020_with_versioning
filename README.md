@@ -2,13 +2,14 @@
 
 English subjects of 42 School (Inner Circle only)
 
-with versioning
+with versioning (except for norm)
 
 * [And then compare pdf files](https://draftable.com/compare)
 
 ---
 
 [some additionnal info on the projects](https://github.com/appinha/42cursus)
+[Old subjects](https://github.com/Binary-Hackers/42_Subjects)
 
 ---
 
