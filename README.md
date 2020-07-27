@@ -9,6 +9,7 @@ with versioning (except for norm)
 ---
 
 [some additionnal info on the projects](https://github.com/appinha/42cursus)
+
 [Old subjects](https://github.com/Binary-Hackers/42_Subjects)
 
 ---
