@@ -2,7 +2,8 @@
 
 English subjects of 42 School (Inner Circle only)
 
-with versioning (except for norm)
+Versioning = Only for English subjects in the inner circle
+
 
 * [And then compare pdf files](https://draftable.com/compare)
 
