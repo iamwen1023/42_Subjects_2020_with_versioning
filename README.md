@@ -1,11 +1,13 @@
 # 42_Subjects_2020
 
-English subjects of 42 School (Inner Circle only)
+English subjects of 42 School (Inner Circle, and most of the Outer Circle)
 
 Versioning = Only for English subjects in the inner circle
 
 
-* [And then compare pdf files](https://draftable.com/compare)
+* [Update script]("https://github.com/Kwevan/42_Subjects_2020_with_versioning/tree/master/Others/Update_Script")
+
+* [Compare pdf files](https://draftable.com/compare)
 
 ---
 
@@ -17,4 +19,4 @@ Versioning = Only for English subjects in the inner circle
 
 Holy Graph
 
-![Holy Graph](https://github.com/Kwevan/42_Subjects_2020_with_versioning/blob/master/z_others/holy_graph.png)
+![Holy Graph](https://github.com/Kwevan/42_Subjects_2020_with_versioning/blob/master/Others/holy_graph.png)
