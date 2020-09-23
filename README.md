@@ -5,7 +5,7 @@ English subjects of 42 School (Inner Circle, and most of the Outer Circle)
 Versioning = Only for English subjects in the inner circle
 
 
-* [Update script]("https://github.com/Kwevan/42_Subjects_2020_with_versioning/tree/master/Others/Update_Script")
+* [Update script](https://github.com/Kwevan/42_Subjects_2020_with_versioning/tree/master/Others/Update_script)
 
 * [Compare pdf files](https://draftable.com/compare)
 
